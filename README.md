@@ -9,3 +9,4 @@ Do you want to store your config here? No problem! Just create a pull request wi
 * [Official config website](https://wiki.openttd.org/Openttd.cfg)
 
 ### Available scenarios:
+* [Small number of cities, realistic config](./configs/small-cities/openttd.cfg)
