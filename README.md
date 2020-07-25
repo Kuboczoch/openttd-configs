@@ -1,4 +1,4 @@
-# [OpenTTD](https://www.openttd.org/) configs repositories
+# [OpenTTD](https://www.openttd.org/) configs repository
 
 Did you ever felt like you forgot to export your favorite config file from your old **openTTD** server after 2 years of no playing it?
 I know that I do, so I created a repository for all of my configs that are worth it!
